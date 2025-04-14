@@ -103,13 +103,13 @@ export default function HomePage() {
               <p className="text-sm text-gray-400">Copyright ©2024 SupremeCNS. All rights reserved.</p>
             </div>
             <div className="flex space-x-6">
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
+              <a href="/" className="text-gray-400 hover:text-white transition-colors">
                 개인정보처리방침
               </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
+              <a href="/" className="text-gray-400 hover:text-white transition-colors">
                 이용약관
               </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
+              <a href="/" className="text-gray-400 hover:text-white transition-colors">
                 사이트맵
               </a>
             </div>

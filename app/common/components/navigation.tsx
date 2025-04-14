@@ -34,75 +34,75 @@ import { FlickeringGrid } from "../../../components/magicui/flickering-grid";
 const menus = [
   {
     name: "제품소개",
-    to: "/products",
+    to: "/",
     items: [
       {
         name: "제조 제품",
         description: "Supreme CNS가 직접 제조하는 의료기기 제품",
-        to: "/products/manufactured",
+        to: "/",
       },
       {
         name: "수입 제품",
         description: "해외 우수 의료기기 브랜드 제품",
-        to: "/products/imported",
+        to: "/",
       },
       {
         name: "신제품",
         description: "최신 출시된 의료기기 제품",
-        to: "/products/new",
+        to: "/",
       },
     ],
   },
   {
     name: "기술지원",
-    to: "/support",
+    to: "/",
     items: [
       {
         name: "제품 설치",
         description: "의료기기 설치 및 시운전 서비스",
-        to: "/support/installation",
+        to: "/",
       },
       {
         name: "정기점검",
         description: "의료기기 정기 점검 및 유지보수",
-        to: "/support/maintenance",
+        to: "/",
       },
       {
         name: "기술교육",
         description: "의료기기 사용자 교육 프로그램",
-        to: "/support/training",
+        to: "/",
       },
       {
         name: "A/S 문의",
         description: "의료기기 수리 및 기술 지원",
-        to: "/support/as",
+        to: "/",
       },
     ],
   },
   {
     name: "회사소개",
-    to: "/company",
+    to: "/",
     items: [
       {
         name: "회사소개",
         description: "Supreme CNS의 역사와 비전",
-        to: "/company/about",
+        to: "/",
       },
       {
         name: "인증현황",
         description: "국내외 인증 및 품질관리 현황",
-        to: "/company/certifications",
+        to: "/",
       },
       {
         name: "오시는 길",
         description: "Supreme CNS 위치 및 연락처",
-        to: "/company/location",
+        to: "/",
       },
     ],
   },
   {
     name: "고객지원",
-    to: "/contact",
+    to: "/",
   },
 ];
 
