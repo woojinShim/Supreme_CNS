@@ -243,10 +243,10 @@ export default function Navigation({
         ) : (
           <div className="flex items-center gap-4">
             <Button asChild variant="secondary">
-              <Link to="/auth/login">로그인</Link>
+              <Link to="/">로그인</Link>
             </Button>
             <Button asChild>
-              <Link to="/auth/join">회원가입</Link>
+              <Link to="/">회원가입</Link>
             </Button>
           </div>
         )}
