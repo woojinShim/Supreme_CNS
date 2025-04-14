@@ -39,17 +39,17 @@ const menus = [
       {
         name: "제조 제품",
         description: "Supreme CNS가 직접 제조하는 의료기기 제품",
-        to: "/",
+        to: "/products/manufactured",
       },
       {
         name: "수입 제품",
         description: "해외 우수 의료기기 브랜드 제품",
-        to: "/",
+        to: "/products/imported",
       },
       {
         name: "신제품",
         description: "최신 출시된 의료기기 제품",
-        to: "/",
+        to: "/products/new",
       },
     ],
   },
@@ -60,22 +60,22 @@ const menus = [
       {
         name: "제품 설치",
         description: "의료기기 설치 및 시운전 서비스",
-        to: "/",
+        to: "/support/installation",
       },
       {
         name: "정기점검",
         description: "의료기기 정기 점검 및 유지보수",
-        to: "/",
+        to: "/support/maintenance",
       },
       {
         name: "기술교육",
         description: "의료기기 사용자 교육 프로그램",
-        to: "/",
+        to: "/support/training",
       },
       {
         name: "A/S 문의",
         description: "의료기기 수리 및 기술 지원",
-        to: "/",
+        to: "/support/as",
       },
     ],
   },
